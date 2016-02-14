@@ -1,1 +1,16 @@
-# PhD-Applied-Social-Statistics
+# PhD Applied Social Statistics Thesis
+
+## Debiasing Reasoning: A Signal Detection Analysis
+
+### Abstract
+
+This thesis focuses on deductive reasoning and how the belief bias effect can be reduced or ameliorated. Belief bias is a phenomenon whereby the evaluation of the logical validity of an argument is skewed by the degree to which the reasoner believes the conclusion. There has been little research examining ways of reducing such bias and whether there is some sort of effective intervention which makes people reason more on the basis of logic
+
+Traditional analyses of this data has focussed on simple measures of accuracy, typically deducting the number of incorrect answers from the number of correct answers to give an accuracy score. However, recent theoretical developments have shown that this approach fails to separate reasoning biases and response biases.
+
+A reasoning bias, is one which affects individuals' ability to discriminate between valid and invalid arguments, whereas a response bias is simply the individual's tendency to give a particular answer, independent of reasoning. A Signal Detection Theory (SDT) approach is used to calculate measures of reasoning accuracy and response bias. These measures are then analysed using mixed effects models.
+
+Chapter 1 gives a general introduction to the topic, and outlines the content of subsequent chapters. In Chapter 2, I review the psychological literature around belief bias, the growth of the use of SDT models, and approaches to reducing bias. Chapter 3 covers the methodology, and includes a a thorough description of the calculation of the SDT measures, and an explanation of the mixed effects models I used to analyse these. Chapter 4 presents an experiment in which the effects of feedback on reducing belief bias is examined. In Chapter 5, the focus shifts in the direction of individual differences, and looks at the effect of different instructions given to participants, and Chapter 6 examines the eects of both feedback and specific training. Chapter 7 provides a general discussion of the implications of the previous three chapters.
+
+* Statistical skills: multilevel modelling, signal detection theory, binomial regression, cumulative link mixed models.
+* Coding skills: Java, R, PHP, HTML, CSS, JavaScript.
